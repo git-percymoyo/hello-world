@@ -1,2 +1,2 @@
 # hello-world
-hello-world lrarning githun
+hello-world learning github
